@@ -20,7 +20,7 @@ export default function Home() {
           <li>why will this not work</li>
         </ol>
 
-        <div className={styles.ctas}>
+        <div>
           <a
             className={styles.primary}
             href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
